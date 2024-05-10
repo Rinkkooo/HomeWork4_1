@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mainFragment"
+        android:icon="@drawable/main_component"
+        android:title="@string/main"/>
+
+    <item
+        android:id="@+id/firstFragment"
+        android:icon="@drawable/user_data"
+        android:title="@string/first"/>
+
+    <item
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/save_data"
+        android:title="@string/second"/>
+</menu>
